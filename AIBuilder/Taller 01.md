@@ -241,4 +241,4 @@ Al introducir un texto y pulsar Analizar se conectará con la AI para ver el sen
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.047.png)
 
 
-09 de Marzo 2023        @rccorella
+Julio 2023        @rccorella
